@@ -18,7 +18,7 @@ Siempre damos una calurosa bienvenida a los nuevos colaboradores; incluso a aque
 * [YouTube - Curso intensivo de Markdown](https://www.youtube.com/watch?v=HUBNt18RFbo) *(en inglés)*
 
 
-No se quede nunca con dudas, ni tenga miedo de hacer preguntas; todo buen colaborador que usted puede ver en el repositorio, comenzó en su día con una primera PR. Así que... ¿qué tal si se une a [nuestra extensa y creciente](https://www.apiseven.com/en/contributor-graph?chart=contributorOverTime&repo=ebookfoundation/free-programming-books) communidad?
+No se quede nunca con dudas, ni tenga miedo de hacer preguntas; todo buen colaborador que usted puede ver en el repositorio, comenzó en su día con una primera PR. Así que... ¿qué tal si se une a [nuestra extensa y creciente](https://www.apiseven.com/en/contributor-graph?chart=contributorOverTime&repo=ebookfoundation/free-programming-books) comunidad?
 
 <details align="center" markdown="1">
 <summary>Click para detalle gráfico sobre dicho crecimiento (usuarios vs. tiempo)</summary>
